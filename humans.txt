@@ -1,7 +1,7 @@
 /* TEAM */
-	Author/Theme: Dominik Moritz
-	Twitter: @domoritz
-	From: Berlin, Germany
+	Author/Theme: Namrata Mukhija
+	Twitter: @namrata_mukhija
+	From: New Delhi, India
 
 /* SITE */
 	Language: English / German
