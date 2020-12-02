@@ -4,9 +4,10 @@ email: namratamukhija@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   I'm a Software Engineer at Microsoft. I have been involved in developing various products PowerPoint, Fluid Framework, and Unified Service Desk.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.namrata96.github.io/namratamukhija" # the base hostname & protocol for your site
-production_url: "https://www.namrata96.github.io/namratamukhija"
+url: "https://namrata96.github.io/namratamukhija" # the base hostname & protocol for your site
+production_url: "https://namrata96.github.io/namratamukhija"
 github_username: Namrata96
+permalink: /blog/:year/:month/:title.html
 
 twitter:
   username: namrata_mukhija
