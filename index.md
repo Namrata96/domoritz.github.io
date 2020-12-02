@@ -4,24 +4,25 @@ title: "Home"
 class: home
 ---
 
-# Hi, I'm Dominik Moritz
+# Hi, I'm Namrata Mukhija
 
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I'm a professor at the [Human-Computer Interaction Institute at Carnegie Mellon University](https://hcii.cmu.edu/) and an ML researcher at [Apple](https://www.apple.com/) <i class="fab fa-apple"></i>. I design and build interactive systems for visualization and analysis. At CMU, I co-lead the [Data Interaction Group](https://dig.cmu.edu/).
+I'm a Software Engineer at [Microsoft](https://www.microsoft.com/). I have been involved in developing various products [PowerPoint](https://www.microsoft.com/en-in/microsoft-365/powerpoint), [Fluid Framework](https://fluidframework.com/), and [Unified Service Desk](https://docs.microsoft.com/en-us/dynamics365/unified-service-desk/admin/overview-unified-service-desk?view=dynamics-usd-4.1).
 
-I received my PhD from the [Paul G. Allen School](https://www.cs.washington.edu/) at the [University of Washington](https://www.washington.edu/), where I worked with [Jeff Heer](https://homes.cs.washington.edu/~jheer/) and [Bill Howe](https://homes.cs.washington.edu/~billhowe/) in the [Interactive Data Lab](http://idl.cs.washington.edu/) and the [Database Group](https://db.cs.washington.edu/).
+I received my B.E. in Information Technology from [Netaji Subhas University of Technology](http://www.nsit.ac.in/).
 
-My systems have [won](https://vega.github.io/vega-lite/) [awards](https://uwdata.github.io/draco/) at premier academic venues and are used by the [Python](https://altair-viz.github.io) and [JavaScript](https://vega.github.io/vega-lite/) data science communities.
+I was awarded the Microsoft Experiences+Devices India Leadership Award 2020 across 2500+ employees for generating energy in the team, demonstrating ”All for One, One for All” mindset, and championing diversity and inclusion.
+
+I actively work and volunteer for non-profits working towards closing the gender gap across industries - [Women in AI](http://www.womeninai.co/) where I lead the Women in AI India chapter, [Thousand Eyes On Me](http://www.thousandeyeson.me) where I work as the Program Director. If you have an idea that could help reduce the gender gap, please <a href="mailto:namrata@womeninai.co">reach out</a> to me!
 </div>
 
 <div class="me" markdown="1">
 <picture>
-  <source srcset='/images/dominik_berlin.webp' type='image/webp' />
   <img
-    src='/images/dominik_berlin.jpg'
-    alt='Dominik Moritz'/>
+    src='/images/namrata.jpg'
+    alt='Namrata Mukhija'/>
 </picture>
 
 {:.no-list}
@@ -29,8 +30,6 @@ My systems have [won](https://vega.github.io/vega-lite/) [awards](https://uwdata
 </div>
 
 </div>
-
-During my first year at UW, I received support from the [Fulbright program](https://en.wikipedia.org/wiki/Fulbright_Program). In 2013, I received my B.S. from [Hasso Plattner Institute](https://hpi.de/). I am a scholar of the [German National Academic Foundation](http://www.studienstiftung.de/). I have worked with the [Open Knowledge Foundation](http://www.okfn.org), [Google Research](https://ai.google/research/), and [Microsoft Research](https://www.microsoft.com/en-us/research/group/vibe/). Details are in my [CV]({{ "/cv/" | relative_url }}).
 
 ## Featured Projects
 

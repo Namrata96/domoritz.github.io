@@ -1,16 +1,15 @@
 # Site settings
-title: Dominik Moritz
-email: domoritz@cmu.edu
+title: Namrata Mukhija
+email: namratamukhija@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Research Scientist at Apple. To be assistant professor at Carnegie Mellon University. I create interactive data visualization and analysis tools. PhD from University of Washington.
+  I'm a Software Engineer at Microsoft. I have been involved in developing various products PowerPoint, Fluid Framework, and Unified Service Desk.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.domoritz.de" # the base hostname & protocol for your site
-production_url: "https://www.domoritz.de"
-github_username: domoritz
-permalink: /blog/:year/:month/:title.html
+url: "https://www.namrata96.github.io" # the base hostname & protocol for your site
+production_url: "https://www.namrata96.github.io"
+github_username: Namrata96
 
 twitter:
-  username: domoritz
+  username: namrata_mukhija
 
 sass:
   style: compressed

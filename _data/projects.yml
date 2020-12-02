@@ -2,11 +2,13 @@
   image: pangloss.jpg
   code: https://github.com/Namrata96/automatic-essay-and-grammar-scoring
   description: "Developed a biLSTM-based model for grammar and essay scoring. Implemented augmented C&W word embeddings which would treat grammatical errors as informative."
+  highlight: 1
 
 - title: Key Information Guide Network
   code: https://github.com/Namrata96/abstractive-summarization-kign
   image: falcon.jpg
   description: "An abstractive text summarizer model which has a encoder for keyword representation, an only attention-based pointer-generator network to generate summaries, and a value estimator network."
+  highlight: 2
 
 - title: Sarcasm Detection
   image: dense.jpg
@@ -23,4 +25,4 @@
   code: https://github.com/osava-nsit/osava
   paper: http://www.journaleet.org/index.php/jeet/article/view/145517
   video: https://youtu.be/cA3mlB1wuM4
-  description: "OSAVA is an Operating Systems Algorithms Visualization app. It visualizes standard versions of the OS algorithms as given in as given in Silberschatz et al. (2012)."
+  description: "OSAVA is an Operating Systems Algorithms Visualization app. It visualizes standard versions of the OS algorithms as given in Silberschatz et al. (2012)."
