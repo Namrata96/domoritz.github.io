@@ -46,9 +46,9 @@ I actively work and volunteer for non-profits working towards closing the gender
   Show More Projects
 </a>
 
-## Featured Publications
+<!-- ## Featured Publications -->
 
-<div class="featured-publications">
+<!-- <div class="featured-publications">
   {% for pub in site.publications %}
     {% if pub.highlight %}
       <a href="{{ pub.pdf }}" class="publication">
@@ -95,6 +95,6 @@ I actively work and volunteer for non-profits working towards closing the gender
 </tbody>
 </table>
 
-</div>
+</div> -->
 
-</div>
+<!-- </div> -->
