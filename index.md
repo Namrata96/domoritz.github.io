@@ -9,7 +9,7 @@ class: home
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I'm a Software Engineer at [Microsoft](https://www.microsoft.com/). I have been involved in developing various products [PowerPoint](https://www.microsoft.com/en-in/microsoft-365/powerpoint), [Fluid Framework](https://fluidframework.com/), and [Unified Service Desk](https://docs.microsoft.com/en-us/dynamics365/unified-service-desk/admin/overview-unified-service-desk?view=dynamics-usd-4.1).
+I'm a Software Engineer at [Microsoft](https://www.microsoft.com/). I have been involved in developing various products such as [PowerPoint](https://www.microsoft.com/en-in/microsoft-365/powerpoint), [Fluid Framework](https://fluidframework.com/), and [Unified Service Desk](https://docs.microsoft.com/en-us/dynamics365/unified-service-desk/admin/overview-unified-service-desk?view=dynamics-usd-4.1).
 
 I received my B.E. in Information Technology from [Netaji Subhas University of Technology](http://www.nsit.ac.in/).
 
