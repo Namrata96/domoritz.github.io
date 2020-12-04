@@ -1,27 +1,27 @@
 - title: Automatic Essay and Grammar Scoring
-  image: pangloss.jpg
+  image: essay_scoring.jpg
   code: https://github.com/Namrata96/automatic-essay-and-grammar-scoring
   description: "Developed a biLSTM-based model for grammar and essay scoring. Implemented augmented C&W word embeddings which would treat grammatical errors as informative."
   highlight: 1
 
 - title: Key Information Guide Network
   code: https://github.com/Namrata96/abstractive-summarization-kign
-  image: falcon.jpg
+  image: abstractive_summarization.jpg
   description: "An abstractive text summarizer model which has a encoder for keyword representation, an only attention-based pointer-generator network to generate summaries, and a value estimator network."
   highlight: 2
 
 - title: Sarcasm Detection
-  image: dense.jpg
+  image: sarcasm_detection.jpg
   code: https://github.com/Namrata96/sarcasm-detection
   description: "A neural network and a SVM model predicting if a tweet is sarcastic based on lexical, pragmatic, lexical incongruity and context incongruity features."
 
 - title: Traffic Sign Classification
-  image: dense.jpg
+  image: traffic_sign.jpg
   code: https://github.com/Namrata96/Traffic-Sign-Classification
   description: "Implemented a three-layered CNN architecture which would classify a given traffic-sign into one of the 47 traffic-sign categories with 97.75% accuracy on the test dataset."
 
 - title: OSAVA
-  image: pangloss.jpg
+  image: osava.png
   code: https://github.com/osava-nsit/osava
   paper: http://www.journaleet.org/index.php/jeet/article/view/145517
   video: https://youtu.be/cA3mlB1wuM4

@@ -27,5 +27,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-mentions
+  - jekyll-redirect-from
+
 
 theme: jekyll-theme-minimal

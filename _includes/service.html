@@ -1,0 +1,35 @@
+<div class="talk">
+  {{ service.organization }}
+
+  <time datetime="{{ service.years }}">
+    {{ service.years }}
+  </time>
+
+  {% for des in service.description %}
+    <p style="color: grey">
+      {{ des | markdownify | remove: '<p>' | remove: '</p>' }}
+    </p>
+    {% unless forloop.last %}{% endunless %}
+    {% endfor %}
+
+  <span class="extra-links">
+    {% if service.slides %}
+    <a href="{{ service.slides }}">
+      <i class="fas fa-window-maximize" aria-hidden="true"></i> Slides
+    </a>
+    {% endif %}
+
+
+
+    <!-- {% if service.description %}
+    <p class="post-subtitle">{{ service.description }}</p>
+    {% endif %} -->
+
+
+    {% if service.url %}
+    <a href="{{ service.url }}">
+      <i class="fas fa-link" aria-hidden="true"></i> Website
+    </a>
+    {% endif %}
+  </span>
+</div>

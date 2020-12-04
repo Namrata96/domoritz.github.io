@@ -1,6 +1,18 @@
-- position: AI Ambassador
-  at: Women in AI
+- title: AI Ambassador, India
+  organization: Women in AI
+  years: 2018-Present
   url: http://www.womeninai.co/
-- position: Program Director
-  at: Thousand Eyes on Me
+  description:
+    - Women in AI (WAI) is a nonprofit do-tank working towards gender-inclusive AI that benefits global society. Our mission is to increase female representation and participation in AI. We are a community-driven initiative bringing empowerment, knowledge and active collaboration via education, research, events, and blogging.
+- title: Program Director
+  organization: Thousand Eyes on Me
+  years: 2020-Present
   url: http://www.thousandeyeson.me
+  description:
+    - Thousand Eyes On Me is a personal branding and talent development platform for women and gender minorities who want to unleash their full potential, gain confidence, and become strong influential leaders. Our mission is to equip female and minority role models to climb the career ladder in all industries, encourage the young generation to go after their dreams, and enable powerful leaders.
+- title: Core team member
+  organization: Women in Machine Learning and Data Science, New Delhi
+  years: 2018-2020
+  url: https://www.linkedin.com/company/wimlds-new-delhi/
+  description:
+    - WiMLDS's mission is to support and promote women practicing, studying or interested in the fields of machine learning and data science. We create opportunities for women to engage in technical and professional conversations in a positive, supportive environment by hosting talks by prominent data scientists, technical workshops, networking events and hack-a-thons.
