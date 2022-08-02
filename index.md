@@ -15,7 +15,7 @@ I received my B.E. in Information Technology from [Netaji Subhas University of T
 
 I was awarded the Microsoft Experiences+Devices India Leadership Award 2020 across 2500+ employees for generating energy in the team, demonstrating ”All for One, One for All” mindset, and championing diversity and inclusion.
 
-I actively work and volunteer for non-profits working towards closing the gender gap across industries - [Women in AI](http://www.womeninai.co/) where I lead the Women in AI India chapter, [Thousand Eyes On Me](http://www.thousandeyeson.me) where I work as the Program Director. If you have an idea that could help reduce the gender gap, please <a href="mailto:namrata@womeninai.co">reach out</a> to me!
+I actively work and volunteer for non-profits working towards closing the gender gap across industries - [Women in AI](http://www.womeninai.co/) where I lead the Women in AI NY and NJ, USA (previously India) chapter, [Thousand Eyes On Me](http://www.thousandeyeson.me) where I work as the Program Director. If you have an idea that could help reduce the gender gap, please <a href="mailto:namrata@womeninai.co">reach out</a> to me!
 </div>
 
 <div class="me" markdown="1">
