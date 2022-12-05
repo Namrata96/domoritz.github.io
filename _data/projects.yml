@@ -1,14 +1,20 @@
+- title: Belief perpetuation
+  image: causal_result.jpg
+  code: https://drive.google.com/file/d/1KP26KRoHhbg13kI5SB6gfHjc7UKFL1Tf/view?usp=share_link
+  description: "A causal analysis of whether personal beliefs towards one marginalized group perpetuate to other marginalized groups."
+  highlight: 1
+  
 - title: Automatic Essay and Grammar Scoring
   image: essay_scoring.jpg
   code: https://github.com/Namrata96/automatic-essay-and-grammar-scoring
   description: "Developed a biLSTM-based model for grammar and essay scoring. Implemented augmented C&W word embeddings which would treat grammatical errors as informative."
-  highlight: 1
+  highlight: 2
 
 - title: Key Information Guide Network
   code: https://github.com/Namrata96/abstractive-summarization-kign
   image: abstractive_summarization.jpg
   description: "An abstractive text summarizer model which has a encoder for keyword representation, an only attention-based pointer-generator network to generate summaries, and a value estimator network."
-  highlight: 2
+  highlight: 3
 
 - title: Sarcasm Detection
   image: sarcasm_detection.jpg
